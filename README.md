@@ -1,4 +1,5 @@
 # Falling Sand Simulator
+Simple grid based falling sand simulator.
 
 ## Screenshots
 
